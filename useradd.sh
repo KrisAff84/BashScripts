@@ -13,7 +13,7 @@ until [[ $r -eq 0 ]]
 		then 
 			echo
 			echo
-			echo "$user already exists as a user. Please choose a differnet name:"
+			echo "$user already exists as a user. Please choose a different name:"
 			read user
 			echo
 			echo
